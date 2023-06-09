@@ -21,4 +21,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ### `Exercício de revisão hookies personalizados`
 
-Exercício feito a partir do vídeo de revisão de hookies personalizados para React da Cod3r
+Exercício feito a partir do vídeo de revisão de hookies personalizados para React da Cod3r.
